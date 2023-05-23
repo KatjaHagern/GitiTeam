@@ -3,3 +3,6 @@ grupp med elever
 som lärde sig GIT
 Push Och pull
 Från Katja
+
+Som precis loggade in
+Från Emilia
