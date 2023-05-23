@@ -4,5 +4,5 @@ som lärde sig GIT
 Push Och pull
 Från Katja
 
-Som precis loggade in
+Och har precis loggat in och lyckades komma in på Visual Studio Code
 Från Emilia
